@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-<!--
+- ERD Cloud: https://www.erdcloud.com/team/NksLYeDZfYwwH9KQM 
+- Figma: https://www.figma.com/file/eAHuGEwAENDAy9zhzecfrH/%EA%B3%B5%EB%AA%A8%EC%A3%BC%ED%86%A0%ED%94%BC%EC%95%84?type=design&node-id=0-1&mode=design&t=hdkGb1bulmdL5Q7v-0
 
-**Here are some ideas to get you started:**
+- Crawler: -
+- Android: -
+- Web: -
+- API Server: -
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Database: -
+- Firebase: -
+- Amplitude: -
+- OneSignal: -
